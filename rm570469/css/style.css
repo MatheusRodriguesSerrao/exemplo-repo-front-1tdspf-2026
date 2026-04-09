@@ -12,7 +12,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #4e8dc0;
+  background-color: #5196ce;
 }
 
 ul li {
@@ -28,7 +28,7 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: #4bbdff;
+  background-color: #6ac8ff;
 }
 
 ul li {
@@ -41,7 +41,7 @@ ul li:last-child {
 }
 
 #hero {
-    background-color: #7d9bc2;
+    background-color: #5c80af;
     text-align: justify;
     padding: 10px;
     box-shadow: 10px 5px 4px;
@@ -57,5 +57,5 @@ ul li:last-child {
 
 #hero a:hover {
   background-color: #ffffff;
-  color: #6396c0;
+  color: #8dbde4;
 }
