@@ -17,7 +17,7 @@
     --cor-fundo: aliceblue;
     --bg-gradiente: linear-gradient(45deg, #7da6c7, #004f99, aliceblue);
     --titulo-main: 4rem;
-    --text-main: #333;
+    --text-main: #fff;
 }   
 
 html{
